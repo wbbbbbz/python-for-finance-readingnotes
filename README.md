@@ -1,4 +1,4 @@
-# Python for Finance (2nd ed., O'Reilly)读书笔记
+# Python for Finance (2nd ed., O'Reilly)读书笔记:notebook_with_decorative_cover:
 
 <img src="http://hilpisch.com/images/py4fi_2nd_shadow.png" width="500">
 
